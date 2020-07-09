@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "glob-watcher": "^5.0.3",
-    "gulp-cli": "https://github.com/deepti-bansal/gulp-cli.git",
+    "gulp-cli": "https://github.com/habilelabs/gulp-cli.git",
     "undertaker": "^1.2.1",
     "vinyl-fs": "^3.0.0"
   },
